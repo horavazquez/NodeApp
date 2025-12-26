@@ -1,5 +1,5 @@
 # Simple NodeJS App
-Simple NodeJS App Docker App
+Simple NodeJS App (Dockerized App)
 
 Serves at port 3000 by default
 
